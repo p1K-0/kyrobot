@@ -3,7 +3,7 @@ from telebot import types
 import time
 import logging
 
-TOKEN = '6456026412:AAHViqMMrJZQy20uepPUL8ejqDKJTaL7tdI'
+TOKEN = <ACCESS_TOKEN>
 bot = telebot.TeleBot(TOKEN)
 
 logging.basicConfig(level="DEBUG")
